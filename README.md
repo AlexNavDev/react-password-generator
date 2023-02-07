@@ -11,5 +11,7 @@ Esta página fue diseñada en Mobile First, en ella se puede generar un password
 
 ## 📷 Screenshot
 <div align="center" >
-![react-password](https://user-images.githubusercontent.com/88694516/217153217-767adaff-6af2-4181-b332-4d552ad84323.gif)
+  
+  ![react-password](https://user-images.githubusercontent.com/88694516/217153217-767adaff-6af2-4181-b332-4d552ad84323.gif)
+  
 </div>
